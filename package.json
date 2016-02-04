@@ -1,0 +1,22 @@
+{
+  "name": "redux-containers-api",
+  "version": "0.0.1",
+  "description": "Simple containers built with redux-apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athanclark/redux-containers-api.git"
+  },
+  "keywords": [
+    "containers"
+  ],
+  "author": "Athan Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/athanclark/redux-containers-api/issues"
+  },
+  "homepage": "https://github.com/athanclark/redux-containers-api#readme"
+}
